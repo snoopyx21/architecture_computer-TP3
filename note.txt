@@ -1,0 +1,3 @@
+jal en binaire :
+0x 0c100018  -> 000011 0000010000000000010100
+                opcode   argument offset
